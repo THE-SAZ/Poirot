@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="mbg" cx="50%" cy="42%" r="80%"><stop offset="0%" stop-color="#101a2c"/><stop offset="100%" stop-color="#05070d"/></radialGradient>
+    <radialGradient id="moc" cx="38%" cy="34%" r="80%"><stop offset="0%" stop-color="#0e3a5c"/><stop offset="100%" stop-color="#04121e"/></radialGradient>
+    <linearGradient id="mlnd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#39d6a8"/><stop offset="1" stop-color="#177a63"/></linearGradient>
+    <linearGradient id="mbr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7df9ff"/><stop offset="1" stop-color="#00a8c8"/></linearGradient>
+    <clipPath id="mc"><circle cx="238" cy="238" r="120"/></clipPath>
+  </defs>
+  <rect width="512" height="512" fill="url(#mbg)"/>
+  <g transform="translate(58 58) scale(0.77)">
+    <circle cx="238" cy="238" r="120" fill="url(#moc)"/>
+    <g clip-path="url(#mc)" fill="url(#mlnd)">
+      <path d="M150 176 c10-14 34-20 50-12 c10 5 6 14-4 18 c-14 5-26 12-38 10 c-8-2-12-10-8-16z"/>
+      <path d="M186 262 c8-6 18-2 20 8 c2 10-2 22-7 32 c-4 9-14 9-17 0 c-4-12-3-30 4-40z"/>
+      <path d="M236 196 c10-8 26-8 33 1 c6 8 4 18 8 27 c4 10-2 22-11 29 c-9 7-18 4-22-5 c-6-12-9-24-11-35 c-2-8-1-13 3-17z"/>
+      <path d="M272 168 c16-8 40-5 52 7 c9 9 7 23 0 32 c-7 9-18 12-27 19 c-7 6-16 4-20-3 c-6-9-7-21-9-32 c-2-9 0-18 4-23z"/>
+      <path d="M306 292 c9-5 20-2 22 7 c2 8-7 14-16 14 c-9 0-13-14-6-21z"/>
+    </g>
+    <circle cx="238" cy="238" r="134" fill="none" stroke="url(#mbr)" stroke-width="17"/>
+    <g transform="rotate(45 238 238)"><rect x="227" y="382" width="22" height="78" rx="11" fill="url(#mbr)"/></g>
+    <g fill="url(#mbr)">
+      <path d="M238 268 C 220 250, 182 252, 168 272 C 160 284, 138 284, 132 272 C 134 298, 162 310, 184 302 C 204 295, 224 284, 238 276 Z"/>
+      <path d="M238 268 C 256 250, 294 252, 308 272 C 316 284, 338 284, 344 272 C 342 298, 314 310, 292 302 C 272 295, 252 284, 238 276 Z"/>
+    </g>
+  </g>
+</svg>

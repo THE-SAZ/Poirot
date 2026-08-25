@@ -1,0 +1,14 @@
+{
+  "name": "Poirot | پوآرو — IP Detective v0.0.9",
+  "short_name": "Poirot",
+  "description": "Full-spectrum IP detective + LEAK IP 2026 lab on a real globe. Developed by THE SAZ 🔱",
+  "dir": "rtl", "lang": "fa",
+  "start_url": "./index.html", "scope": "./",
+  "display": "standalone", "orientation": "any",
+  "background_color": "#05070d", "theme_color": "#05070d",
+  "categories": ["utilities", "education", "security"],
+  "icons": [
+    { "src": "assets/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/logo-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

@@ -52,7 +52,7 @@
   </g>
   <!-- متن با وزیرمتن -->
   <g text-anchor="middle" font-family="Vazirmatn, sans-serif">
-    <text x="360" y="248" font-size="120" font-weight="900" fill="#e6f1ff">پوآرو</text>
+    <text x="360" y="248" font-size="120" font-weight="900" fill="#e6f1ff">پــوآرو</text>
     <text x="360" y="300" font-size="26" font-weight="500" letter-spacing="6" fill="#00e5ff">POIROT · IP DETECTIVE · v1.0.0</text>
     <text x="360" y="352" font-size="27" font-weight="400" fill="#8fa3c0">کارآگاه خصوصی آی‌پی‌ها + آزمایشگاه نشت ۲۰۲۶ — روی کره واقعی زمین</text>
     <g font-size="16" font-weight="500">
@@ -65,5 +65,5 @@
     <text x="360" y="540" font-size="20" font-weight="700" fill="#7df9ff">Developed by THE SAZ 🔱</text>
     <text x="360" y="568" font-size="14" fill="#5a6c88">t.me/THE_SAZ · github.com/THE-SAZ · zaya.io/thesaz</text>
   </g>
-  <g font-family="Vazirmatn, sans-serif"><rect x="64" y="64" width="210" height="38" rx="9" fill="#0c1220" stroke="#00e5ff" stroke-opacity=".6"/><text x="169" y="89" font-size="16" font-weight="700" fill="#7df9ff" text-anchor="middle">2026 EDITION · v0.0.9</text></g>
+  <g font-family="Vazirmatn, sans-serif"><rect x="64" y="64" width="210" height="38" rx="9" fill="#0c1220" stroke="#00e5ff" stroke-opacity=".6"/><text x="169" y="89" font-size="16" font-weight="700" fill="#7df9ff" text-anchor="middle">2026 EDITION · v1.0.0</text></g>
 </svg>
